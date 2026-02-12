@@ -1,0 +1,205 @@
+{
+  "jiraTasks": [
+    {
+      "assignee": "Sarah Chen",
+      "email": "sarah.chen@company.com",
+      "tasks": [
+        {
+          "taskId": "PROJ-101",
+          "title": "Implement user authentication module",
+          "status": "In Progress",
+          "priority": "High",
+          "storyPoints": 8,
+          "dueDate": "2024-02-15",
+          "description": "Create OAuth2 integration for user login"
+        },
+        {
+          "taskId": "PROJ-102",
+          "title": "Fix login page responsive issues",
+          "status": "To Do",
+          "priority": "Medium",
+          "storyPoints": 3,
+          "dueDate": "2024-02-10",
+          "description": "Resolve mobile view layout problems"
+        },
+        {
+          "taskId": "PROJ-103",
+          "title": "Update API documentation",
+          "status": "Done",
+          "priority": "Low",
+          "storyPoints": 2,
+          "dueDate": "2024-01-30",
+          "description": "Document new authentication endpoints"
+        }
+      ]
+    },
+    {
+      "assignee": "Marcus Johnson",
+      "email": "marcus.johnson@company.com",
+      "tasks": [
+        {
+          "taskId": "PROJ-104",
+          "title": "Design database schema for orders",
+          "status": "Done",
+          "priority": "High",
+          "storyPoints": 5,
+          "dueDate": "2024-01-28",
+          "description": "Create ERD for order management system"
+        },
+        {
+          "taskId": "PROJ-105",
+          "title": "Optimize SQL queries for reports",
+          "status": "In Progress",
+          "priority": "High",
+          "storyPoints": 5,
+          "dueDate": "2024-02-12",
+          "description": "Improve performance of monthly sales reports"
+        },
+        {
+          "taskId": "PROJ-106",
+          "title": "Implement data backup solution",
+          "status": "To Do",
+          "priority": "Critical",
+          "storyPoints": 8,
+          "dueDate": "2024-02-20",
+          "description": "Set up automated daily backups"
+        },
+        {
+          "taskId": "PROJ-107",
+          "title": "Create migration scripts",
+          "status": "In Review",
+          "priority": "Medium",
+          "storyPoints": 3,
+          "dueDate": "2024-02-08",
+          "description": "Scripts for production database updates"
+        }
+      ]
+    },
+    {
+      "assignee": "Priya Patel",
+      "email": "priya.patel@company.com",
+      "tasks": [
+        {
+          "taskId": "PROJ-108",
+          "title": "Design new dashboard UI mockups",
+          "status": "Done",
+          "priority": "High",
+          "storyPoints": 5,
+          "dueDate": "2024-02-01",
+          "description": "Create Figma designs for analytics dashboard"
+        },
+        {
+          "taskId": "PROJ-109",
+          "title": "Conduct user testing for checkout flow",
+          "status": "In Progress",
+          "priority": "High",
+          "storyPoints": 8,
+          "dueDate": "2024-02-14",
+          "description": "Test with 10 users and document findings"
+        },
+        {
+          "taskId": "PROJ-110",
+          "title": "Update style guide documentation",
+          "status": "To Do",
+          "priority": "Low",
+          "storyPoints": 2,
+          "dueDate": "2024-02-18",
+          "description": "Add new component guidelines"
+        }
+      ]
+    },
+    {
+      "assignee": "Alex Rodriguez",
+      "email": "alex.rodriguez@company.com",
+      "tasks": [
+        {
+          "taskId": "PROJ-111",
+          "title": "Set up CI/CD pipeline",
+          "status": "In Progress",
+          "priority": "Critical",
+          "storyPoints": 13,
+          "dueDate": "2024-02-16",
+          "description": "Configure Jenkins for automated deployments"
+        },
+        {
+          "taskId": "PROJ-112",
+          "title": "Configure AWS S3 buckets",
+          "status": "Done",
+          "priority": "High",
+          "storyPoints": 3,
+          "dueDate": "2024-01-25",
+          "description": "Set up storage for user uploads"
+        },
+        {
+          "taskId": "PROJ-113",
+          "title": "Implement monitoring and alerting",
+          "status": "To Do",
+          "priority": "High",
+          "storyPoints": 8,
+          "dueDate": "2024-02-22",
+          "description": "Set up Datadog dashboards and alerts"
+        },
+        {
+          "taskId": "PROJ-114",
+          "title": "Security audit of infrastructure",
+          "status": "To Do",
+          "priority": "Critical",
+          "storyPoints": 13,
+          "dueDate": "2024-02-25",
+          "description": "Perform comprehensive security review"
+        },
+        {
+          "taskId": "PROJ-115",
+          "title": "Update Docker containers",
+          "status": "In Review",
+          "priority": "Medium",
+          "storyPoints": 5,
+          "dueDate": "2024-02-09",
+          "description": "Upgrade to latest base images"
+        }
+      ]
+    },
+    {
+      "assignee": "Emma Williams",
+      "email": "emma.williams@company.com",
+      "tasks": [
+        {
+          "taskId": "PROJ-116",
+          "title": "Write unit tests for payment module",
+          "status": "In Progress",
+          "priority": "High",
+          "storyPoints": 5,
+          "dueDate": "2024-02-11",
+          "description": "Achieve 80% code coverage"
+        },
+        {
+          "taskId": "PROJ-117",
+          "title": "Refactor notification service",
+          "status": "To Do",
+          "priority": "Medium",
+          "storyPoints": 8,
+          "dueDate": "2024-02-19",
+          "description": "Improve code maintainability and performance"
+        },
+        {
+          "taskId": "PROJ-118",
+          "title": "Fix bug in email template rendering",
+          "status": "In Review",
+          "priority": "High",
+          "storyPoints": 3,
+          "dueDate": "2024-02-07",
+          "description": "Resolve HTML formatting issues"
+        },
+        {
+          "taskId": "PROJ-119",
+          "title": "Integrate third-party payment gateway",
+          "status": "To Do",
+          "priority": "Critical",
+          "storyPoints": 13,
+          "dueDate": "2024-02-28",
+          "description": "Add Stripe payment processing"
+        }
+      ]
+    }
+  ]
+}
